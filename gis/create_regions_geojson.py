@@ -1,3 +1,11 @@
+"""
+This script creates a geojson file with the regions of the Philippines.
+The regions are created by aggregating the provinces.
+The provinces are taken from the GADM data.
+The region data is taken from the Wikipedia page:
+https://en.wikipedia.org/wiki/Regions_of_the_Philippines
+"""
+
 import json
 import csv
 
