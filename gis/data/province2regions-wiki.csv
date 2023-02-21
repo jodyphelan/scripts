@@ -1,0 +1,121 @@
+﻿province,type,region,population,area,density
+Abra,province,CAR,"250,985","4,165.25",58
+Agusan del Norte,province,XIII,"387,503","2,730.24",130
+Agusan del Sur,province,XIII,"739,367","9,989.52",70
+Aklan,province,VI,"615,475","1,821.42",316
+Albay,province,V,"1,374,768","2,575.77",510
+Angeles City,HUC,III,"462,928",60.27,"6,830"
+Antique,province,VI,"612,974","2,729.17",213
+Apayao,province,CAR,"124,366","4,413.35",27
+Aurora,province,III,"235,750","3,147.32",68
+Bacolod,HUC,VI,"600,783",162.67,"3,454"
+Baguio,HUC,CAR,"366,358",57.51,"6,005"
+Basilan,province,BARMM,"556,586","1,327.23",346
+Bataan,province,III,"853,373","1,372.98",554
+Batanes,province,II,"18,831",219.01,79
+Batangas,province,IV-A,"2,908,494","3,119.75",864
+Benguet,province,CAR,"460,683","2,769.08",161
+Biliran,province,VIII,"179,312",536.01,320
+Bohol,province,VII,"1,394,329","4,820.95",272
+Bukidnon,province,X,"1,541,308","10,498.59",135
+Bulacan,province,III,"3,708,890","2,796.10","1,177"
+Butuan,HUC,XIII,"372,910",816.62,413
+Cagayan,province,II,"1,268,603","9,295.75",129
+Cagayan de Oro,HUC,X,"728,402",412.8,"1,637"
+Caloocan,HUC,NCR,"1,661,584",53.33,"29,701"
+Camarines Norte,province,V,"629,699","2,320.07",251
+Camarines Sur,province,V,"1,859,074","5,412.55",325
+Camiguin,province,X,"92,808",237.95,372
+Capiz,province,VI,"804,952","2,594.64",293
+Catanduanes,province,V,"271,879","1,492.16",175
+Cavite,province,IV-A,"4,344,829","1,574.17","2,337"
+Cebu,province,VII,"3,325,385","4,943.72",594
+Cebu City,HUC,VII,"964,169",315,"2,929"
+Cotabato,province,XII,"1,490,618","9,008.90",153
+Cotabato City,ICC,BARMM,"325,079",176,"1,701"
+Dagupan,ICC,I,"174,302",37.23,"4,600"
+Davao City,HUC,XI,"1,776,949","2,443.61",668
+Davao de Oro,province,XI,"767,547","4,479.77",164
+Davao del Norte,province,XI,"1,125,057","3,426.97",297
+Davao del Sur,province,XI,"680,481","2,163.98",292
+Davao Occidental,province,XI,"317,159","2,163.45",146
+Davao Oriental,province,XI,"576,343","5,679.64",98
+Dinagat Islands,province,XIII,"128,117","1,036.34",123
+Eastern Samar,province,VIII,"477,168","4,660.47",100
+General Santos,HUC,XII,"697,315",492.86,"1,206"
+Guimaras,province,VI,"187,842",604.57,289
+Ifugao,province,CAR,"207,498","2,628.21",77
+Iligan,HUC,X,"363,115",813.37,421
+Ilocos Norte,province,I,"609,588","3,467.89",171
+Ilocos Sur,province,I,"706,009","2,596.00",266
+Iloilo,province,VI,"2,051,899","5,000.83",387
+Iloilo City,HUC,VI,"457,626",78.34,"5,719"
+Isabela,province,II,"1,548,470","12,159.43",120
+Kalinga,province,CAR,"229,570","3,231.25",66
+La Union,province,I,"822,352","1,497.70",525
+Laguna,province,IV-A,"3,382,193","1,917.85","1,583"
+Lanao del Norte,province,X,"722,902","3,346.57",202
+Lanao del Sur,province,BARMM,"1,195,518","3,872.89",270
+Lapu-Lapu,HUC,VII,"497,604",58.1,"7,024"
+Las Piñas,HUC,NCR,"606,293",32.69,"18,014"
+Leyte,province,VIII,"1,545,849","5,699.73",265
+Lucena,HUC,IV-A,"278,924",80.21,"3,319"
+Maguindanao,province,BARMM,"1,342,179","4,871.60",241
+Makati,HUC,NCR,"629,616",21.57,"27,010"
+Malabon,HUC,NCR,"380,522",15.71,"23,267"
+Mandaluyong,HUC,NCR,"425,758",9.29,"41,580"
+Mandaue,HUC,VII,"364,116",25.18,"14,402"
+Manila,HUC,NCR,"1,846,513",42.88,"41,515"
+Marikina,HUC,NCR,"456,059",21.52,"20,945"
+Marinduque,province,Mimaropa,"239,207",952.58,246
+Masbate,province,V,"908,920","4,151.78",215
+Misamis Occidental,province,X,"617,333","2,055.22",293
+Misamis Oriental,province,X,"956,900","3,131.52",284
+Mountain Province,province,CAR,"158,200","2,157.38",72
+Muntinlupa,HUC,NCR,"543,445",39.75,"12,692"
+Naga,ICC,V,"209,170",84.48,"2,320"
+Navotas,HUC,NCR,"247,543",8.94,"27,904"
+Negros Occidental,province,VI,"2,623,172","7,802.54",320
+Negros Oriental,province,VII,"1,432,990","5,385.53",252
+Northern Samar,province,VIII,"639,186","3,692.93",171
+Nueva Ecija,province,III,"2,310,134","5,751.33",374
+Nueva Vizcaya,province,II,"497,432","3,975.67",114
+Occidental Mindoro,province,Mimaropa,"525,354","5,865.71",83
+Olongapo,HUC,III,"260,317",185,"1,260"
+Oriental Mindoro,province,Mimaropa,"908,339","4,238.38",199
+Ormoc,ICC,VIII,"230,998",613.6,350
+Palawan,province,Mimaropa,"939,594","14,649.73",58
+Pampanga,province,III,"2,437,709","2,002.20","1,098"
+Pangasinan,province,I,"2,988,888","5,413.78",515
+Parañaque,HUC,NCR,"689,992",46.57,"14,297"
+Pasay,HUC,NCR,"440,656",13.97,"29,815"
+Pasig[12],HUC,NCR,"803,159",48.46,"15,586"
+Pateros,NCR municipality,NCR,"65,227",2.25,"28,373"
+Puerto Princesa,HUC,Mimaropa,"307,079","2,381.02",107
+Quezon,province,IV-A,"1,950,459","8,989.39",207
+Quezon City,HUC,NCR,"2,960,048",171.71,"17,099"
+Quirino,province,II,"203,828","2,323.47",81
+Rizal,province,IV-A,"3,330,143","1,191.94","2,420"
+Romblon,province,Mimaropa,"308,985","1,533.45",191
+Samar,province,VIII,"793,183","6,048.03",129
+San Juan,HUC,NCR,"126,347",5.95,"20,569"
+Santiago,ICC,II,"148,580",255.5,528
+Sarangani,province,XII,"558,946","3,601.25",151
+Siquijor,province,VII,"103,395",337.49,284
+Sorsogon,province,V,"828,655","2,119.01",374
+South Cotabato,province,XII,"975,476","3,935.95",233
+Southern Leyte,province,VIII,"429,573","1,798.61",234
+Sultan Kudarat,province,XII,"854,052","5,298.34",153
+Sulu,province,BARMM,"1,000,108","1,600.40",515
+Surigao del Norte,province,XIII,"534,636","1,972.93",246
+Surigao del Sur,province,XIII,"642,255","4,932.70",120
+Tacloban,HUC,VIII,"251,881",201.72,"1,200"
+Taguig,HUC,NCR,"886,722",45.21,"17,804"
+Tarlac,province,III,"1,503,456","3,053.60",447
+Tawi-Tawi,province,BARMM,"440,276","1,087.40",359
+Valenzuela,HUC,NCR,"714,978",47.02,"13,195"
+Zambales,province,III,"649,615","3,645.83",162
+Zamboanga City,HUC,IX,"977,234","1,414.70",609
+Zamboanga del Norte,province,IX,"1,047,455","7,301.00",139
+Zamboanga del Sur,province,IX,"1,050,668","4,499.46",225
+Zamboanga Sibugay,province,IX,"669,840","3,607.75",175

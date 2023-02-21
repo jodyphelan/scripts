@@ -13,7 +13,7 @@ province2region = {}
 regions = set()
 region_data = {}
 # read the csv file with the province to region mapping
-for row in csv.DictReader(open("province2regions-wiki.csv","r",encoding="utf-8-sig")):
+for row in csv.DictReader(open("data/province2regions-wiki.csv","r",encoding="utf-8-sig")):
     row['province'] = row['province'].replace(" ","")
     regions.add(row['region'])
     # create a dictionary with the region data
@@ -21,7 +21,7 @@ for row in csv.DictReader(open("province2regions-wiki.csv","r",encoding="utf-8-s
     province2region[row['province']] = row['region']
 
 # read the geojson file with the provinces
-data = json.load(open("gadm41_PHL_1.json"))
+data = json.load(open("data/gadm41_PHL_1.json"))
 
 # Some provinces are named differently in the GADM data. This code renames them.
 rename = {"CompostelaValley": "DavaodeOro", "MetropolitanManila": "Manila", "NorthCotabato":"Cotabato"}
